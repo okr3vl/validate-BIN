@@ -4,15 +4,15 @@ Bank Identification Number (“BIN”) or Issuer identification number (“IIN�
 
 ## Details :
 
-- [x] Type
-- [x] Brand
-- [x] Bank
-- [x] Credit / Debit
-- [x] Country
+Type - [x]
+Brand - [x]
+Bank - [x]
+Credit / Debit - [x]
+Country - [x]
 
 ## Connect with okr3vl :
 
-[<img align="left" alt="OKrevl | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ussvmv_krevl | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<p align="left">
+<!-- <a href="https://twitter.com/OKrevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="OKrevl" height="30" width="40" /></a> -->
+<a href="https://instagram.com/ussvmv_krevl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ussvmv_krevl" height="30" width="40" /></a>
+</p>
