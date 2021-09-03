@@ -13,9 +13,9 @@ function getbin(){
 
         }) 
 .then(function(data){  
-	        name = data.scheme
+	    name = data.scheme
+	    bank = data.bank.name;
             brand = data.brand;
-            bank = data.bank.name;
             cd= data.type;
             country = data.country.alpha2;  
         })  
