@@ -1,11 +1,10 @@
 function getbin(){
 	var bin = document.getElementById("ibin").value;
-
-
-    let api = 'https://lookup.binlist.net/'+ bin;  
+	
+	let api = 'https://lookup.binlist.net/'+ bin;
       
-    fetch(api)  
-         .then(function(response){  
+fetch(api)  
+        .then(function(response){  
             let data = response.json();  
             return data;
             const {scheme,type,bank,brand,country} = data;
@@ -25,9 +24,9 @@ function getbin(){
 }  
   
 function displayBIN(){ 
-  document.getElementById('type').innerHTML = name;
-  document.getElementById('brand').innerHTML = brand;
-  document.getElementById('bank').innerHTML = bank;
-  document.getElementById('cd').innerHTML = cd;
-  document.getElementById('country').innerHTML = country;
+            document.getElementById('type').innerHTML = name;
+            document.getElementById('brand').innerHTML = brand;
+            document.getElementById('bank').innerHTML = bank;
+            document.getElementById('cd').innerHTML = cd;
+            document.getElementById('country').innerHTML = country;
 }
